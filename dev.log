@@ -1,0 +1,208 @@
+
+> saas-template-magicui@0.1.0 dev
+> next dev --port 3333
+
+   ▲ Next.js 15.3.5
+   - Local:        http://localhost:3333
+   - Network:      http://192.168.0.3:3333
+
+ ✓ Starting...
+ ✓ Ready in 1077ms
+ ○ Compiling / ...
+ ✓ Compiled / in 2.7s (2156 modules)
+ GET / 200 in 4108ms
+ ○ Compiling /favicon.ico ...
+ ✓ Compiled /favicon.ico in 1132ms (1344 modules)
+ GET /favicon.ico 200 in 1183ms
+ GET / 200 in 589ms
+ GET /favicon.ico 200 in 7ms
+ ⚠ Fast Refresh had to perform a full reload when 8c637b922b2/node_modules/next/dist/client/app-dir/link.js","ids":["*","__esModule","default"]}, 8c637b922b2/node_modules/next/dist/client/image-component.js","ids":[]}, 8c637b922b2/src/components/features-horizontal.tsx","ids":["default"]}, 8c637b922b2/src/components/features-vertical.tsx","ids":["default"]}, 8c637b922b2/src/components/magicui/blur-fade.tsx","ids":["*","default"]}, 8c637b922b2/src/components/sections/header.tsx","ids":["default"]}, 8c637b922b2/src/components/sections/hero.tsx","ids":["default"]}, 8c637b922b2/src/components/sections/solution.tsx","ids":["default"]}, 8c637b922b2/src/components/sections/testimonials.tsx","ids":["default"]}, 8c637b922b2/src/components/ui/accordion.tsx","ids":["Accordion","AccordionItem","AccordionTrigger","AccordionContent"]}, 8c637b922b2/src/components/ui/carousel.tsx","ids":["Carousel","CarouselContent","CarouselItem","CarouselPrevious","CarouselNext"]} changed. Read more: https://nextjs.org/docs/messages/fast-refresh-reload
+ ✓ Compiled in 718ms (2148 modules)
+ ⨯ [Error: Element type is invalid: expected a string (for built-in components) or a class/function (for composite components) but got: object. You likely forgot to export your component from the file it's defined in, or you might have mixed up default and named imports.] {
+  digest: '1460555399'
+}
+ GET / 200 in 75ms
+ GET / 500 in 1041ms
+ ✓ Compiled /favicon.ico in 123ms (1340 modules)
+ GET /favicon.ico 200 in 175ms
+ ⚠ Fast Refresh had to perform a full reload due to a runtime error.
+ ⚠ Fast Refresh had to perform a full reload due to a runtime error.
+ ✓ Compiled in 1216ms (2172 modules)
+ GET / 200 in 1023ms
+ GET / 200 in 181ms
+ GET /favicon.ico 200 in 12ms
+ ✓ Compiled in 1278ms (2147 modules)
+ GET / 200 in 455ms
+ ✓ Compiled /favicon.ico in 169ms (1339 modules)
+ GET /favicon.ico 200 in 220ms
+ GET /favicon.ico 200 in 2ms
+ ✓ Compiled in 1063ms (2146 modules)
+ GET / 200 in 409ms
+ ✓ Compiled /favicon.ico in 172ms (1338 modules)
+ GET /favicon.ico 200 in 222ms
+ GET /favicon.ico 200 in 2ms
+ ✓ Compiled in 676ms (2162 modules)
+ GET / 200 in 281ms
+ GET /favicon.ico 200 in 12ms
+ GET /favicon.ico 200 in 4ms
+ ✓ Compiled in 456ms (1818 modules)
+ GET / 200 in 369ms
+ ✓ Compiled /favicon.ico in 144ms (1010 modules)
+ GET /favicon.ico 200 in 195ms
+ GET /favicon.ico 200 in 2ms
+ ○ Compiling /blog/[slug] ...
+ ✓ Compiled /blog/[slug] in 891ms (2162 modules)
+ GET / 200 in 372ms
+ ✓ Compiled /favicon.ico in 208ms (1352 modules)
+ GET /favicon.ico 200 in 267ms
+ GET /favicon.ico 200 in 2ms
+ GET /blog/introducing-acme-ai 200 in 2165ms
+ GET / 200 in 484ms
+ GET / 200 in 50ms
+ ○ Compiling /blog ...
+ ✓ Compiled /blog in 831ms (2170 modules)
+ GET /blog 200 in 1333ms
+ GET /blog/introducing-acme-ai 200 in 45ms
+ ✓ Compiled in 328ms (827 modules)
+ GET / 200 in 191ms
+ ⨯ Module not found: Error: Can't resolve 'next-flight-client-entry-loader' in '/Users/johncarter/Desktop/magicuidesign-saas-template-fb7c6e1ae2939a6eb28859bc7edbb8c637b922b2'
+ ✓ Compiled in 5ms
+[Error: ENOENT: no such file or directory, scandir '/Users/johncarter/Desktop/magicuidesign-saas-template-fb7c6e1ae2939a6eb28859bc7edbb8c637b922b2/src/app'] {
+  errno: -2,
+  code: 'ENOENT',
+  syscall: 'scandir',
+  path: '/Users/johncarter/Desktop/magicuidesign-saas-template-fb7c6e1ae2939a6eb28859bc7edbb8c637b922b2/src/app'
+}
+ ⨯ unhandledRejection: [Error: ENOENT: no such file or directory, scandir '/Users/johncarter/Desktop/magicuidesign-saas-template-fb7c6e1ae2939a6eb28859bc7edbb8c637b922b2/src/app'] {
+  errno: -2,
+  code: 'ENOENT',
+  syscall: 'scandir',
+  path: '/Users/johncarter/Desktop/magicuidesign-saas-template-fb7c6e1ae2939a6eb28859bc7edbb8c637b922b2/src/app'
+}
+ ⨯ unhandledRejection:  [Error: ENOENT: no such file or directory, scandir '/Users/johncarter/Desktop/magicuidesign-saas-template-fb7c6e1ae2939a6eb28859bc7edbb8c637b922b2/src/app'] {
+  errno: -2,
+  code: 'ENOENT',
+  syscall: 'scandir',
+  path: '/Users/johncarter/Desktop/magicuidesign-saas-template-fb7c6e1ae2939a6eb28859bc7edbb8c637b922b2/src/app'
+}
+[Error: ENOENT: no such file or directory, scandir '/Users/johncarter/Desktop/magicuidesign-saas-template-fb7c6e1ae2939a6eb28859bc7edbb8c637b922b2/src/app'] {
+  errno: -2,
+  code: 'ENOENT',
+  syscall: 'scandir',
+  path: '/Users/johncarter/Desktop/magicuidesign-saas-template-fb7c6e1ae2939a6eb28859bc7edbb8c637b922b2/src/app'
+}
+[Error: ENOENT: no such file or directory, scandir '/Users/johncarter/Desktop/magicuidesign-saas-template-fb7c6e1ae2939a6eb28859bc7edbb8c637b922b2/src/app'] {
+  errno: -2,
+  code: 'ENOENT',
+  syscall: 'scandir',
+  path: '/Users/johncarter/Desktop/magicuidesign-saas-template-fb7c6e1ae2939a6eb28859bc7edbb8c637b922b2/src/app'
+}
+[Error: ENOENT: no such file or directory, scandir '/Users/johncarter/Desktop/magicuidesign-saas-template-fb7c6e1ae2939a6eb28859bc7edbb8c637b922b2/src/app'] {
+  errno: -2,
+  code: 'ENOENT',
+  syscall: 'scandir',
+  path: '/Users/johncarter/Desktop/magicuidesign-saas-template-fb7c6e1ae2939a6eb28859bc7edbb8c637b922b2/src/app'
+}
+[Error: ENOENT: no such file or directory, scandir '/Users/johncarter/Desktop/magicuidesign-saas-template-fb7c6e1ae2939a6eb28859bc7edbb8c637b922b2/src/app'] {
+  errno: -2,
+  code: 'ENOENT',
+  syscall: 'scandir',
+  path: '/Users/johncarter/Desktop/magicuidesign-saas-template-fb7c6e1ae2939a6eb28859bc7edbb8c637b922b2/src/app'
+}
+[Error: ENOENT: no such file or directory, scandir '/Users/johncarter/Desktop/magicuidesign-saas-template-fb7c6e1ae2939a6eb28859bc7edbb8c637b922b2/src/app'] {
+  errno: -2,
+  code: 'ENOENT',
+  syscall: 'scandir',
+  path: '/Users/johncarter/Desktop/magicuidesign-saas-template-fb7c6e1ae2939a6eb28859bc7edbb8c637b922b2/src/app'
+}
+[Error: ENOENT: no such file or directory, scandir '/Users/johncarter/Desktop/magicuidesign-saas-template-fb7c6e1ae2939a6eb28859bc7edbb8c637b922b2/src/app'] {
+  errno: -2,
+  code: 'ENOENT',
+  syscall: 'scandir',
+  path: '/Users/johncarter/Desktop/magicuidesign-saas-template-fb7c6e1ae2939a6eb28859bc7edbb8c637b922b2/src/app'
+}
+ ⨯ Module not found: Error: Can't resolve 'next-flight-client-entry-loader' in '/Users/johncarter/Desktop/magicuidesign-saas-template-fb7c6e1ae2939a6eb28859bc7edbb8c637b922b2'
+[Error: ENOENT: no such file or directory, scandir '/Users/johncarter/Desktop/magicuidesign-saas-template-fb7c6e1ae2939a6eb28859bc7edbb8c637b922b2/src/app'] {
+  errno: -2,
+  code: 'ENOENT',
+  syscall: 'scandir',
+  path: '/Users/johncarter/Desktop/magicuidesign-saas-template-fb7c6e1ae2939a6eb28859bc7edbb8c637b922b2/src/app'
+}
+[Error: ENOENT: no such file or directory, scandir '/Users/johncarter/Desktop/magicuidesign-saas-template-fb7c6e1ae2939a6eb28859bc7edbb8c637b922b2/src/app'] {
+  errno: -2,
+  code: 'ENOENT',
+  syscall: 'scandir',
+  path: '/Users/johncarter/Desktop/magicuidesign-saas-template-fb7c6e1ae2939a6eb28859bc7edbb8c637b922b2/src/app'
+}
+[Error: ENOENT: no such file or directory, scandir '/Users/johncarter/Desktop/magicuidesign-saas-template-fb7c6e1ae2939a6eb28859bc7edbb8c637b922b2/src/app'] {
+  errno: -2,
+  code: 'ENOENT',
+  syscall: 'scandir',
+  path: '/Users/johncarter/Desktop/magicuidesign-saas-template-fb7c6e1ae2939a6eb28859bc7edbb8c637b922b2/src/app'
+}
+[Error: ENOENT: no such file or directory, scandir '/Users/johncarter/Desktop/magicuidesign-saas-template-fb7c6e1ae2939a6eb28859bc7edbb8c637b922b2/src/app'] {
+  errno: -2,
+  code: 'ENOENT',
+  syscall: 'scandir',
+  path: '/Users/johncarter/Desktop/magicuidesign-saas-template-fb7c6e1ae2939a6eb28859bc7edbb8c637b922b2/src/app'
+}
+[Error: ENOENT: no such file or directory, scandir '/Users/johncarter/Desktop/magicuidesign-saas-template-fb7c6e1ae2939a6eb28859bc7edbb8c637b922b2/src/app'] {
+  errno: -2,
+  code: 'ENOENT',
+  syscall: 'scandir',
+  path: '/Users/johncarter/Desktop/magicuidesign-saas-template-fb7c6e1ae2939a6eb28859bc7edbb8c637b922b2/src/app'
+}
+[Error: ENOENT: no such file or directory, scandir '/Users/johncarter/Desktop/magicuidesign-saas-template-fb7c6e1ae2939a6eb28859bc7edbb8c637b922b2/src/app'] {
+  errno: -2,
+  code: 'ENOENT',
+  syscall: 'scandir',
+  path: '/Users/johncarter/Desktop/magicuidesign-saas-template-fb7c6e1ae2939a6eb28859bc7edbb8c637b922b2/src/app'
+}
+[Error: ENOENT: no such file or directory, scandir '/Users/johncarter/Desktop/magicuidesign-saas-template-fb7c6e1ae2939a6eb28859bc7edbb8c637b922b2/src/app'] {
+  errno: -2,
+  code: 'ENOENT',
+  syscall: 'scandir',
+  path: '/Users/johncarter/Desktop/magicuidesign-saas-template-fb7c6e1ae2939a6eb28859bc7edbb8c637b922b2/src/app'
+}
+[Error: ENOENT: no such file or directory, scandir '/Users/johncarter/Desktop/magicuidesign-saas-template-fb7c6e1ae2939a6eb28859bc7edbb8c637b922b2/src/app'] {
+  errno: -2,
+  code: 'ENOENT',
+  syscall: 'scandir',
+  path: '/Users/johncarter/Desktop/magicuidesign-saas-template-fb7c6e1ae2939a6eb28859bc7edbb8c637b922b2/src/app'
+}
+[Error: ENOENT: no such file or directory, scandir '/Users/johncarter/Desktop/magicuidesign-saas-template-fb7c6e1ae2939a6eb28859bc7edbb8c637b922b2/src/app'] {
+  errno: -2,
+  code: 'ENOENT',
+  syscall: 'scandir',
+  path: '/Users/johncarter/Desktop/magicuidesign-saas-template-fb7c6e1ae2939a6eb28859bc7edbb8c637b922b2/src/app'
+}
+[Error: ENOENT: no such file or directory, scandir '/Users/johncarter/Desktop/magicuidesign-saas-template-fb7c6e1ae2939a6eb28859bc7edbb8c637b922b2/src/app'] {
+  errno: -2,
+  code: 'ENOENT',
+  syscall: 'scandir',
+  path: '/Users/johncarter/Desktop/magicuidesign-saas-template-fb7c6e1ae2939a6eb28859bc7edbb8c637b922b2/src/app'
+}
+[Error: ENOENT: no such file or directory, scandir '/Users/johncarter/Desktop/magicuidesign-saas-template-fb7c6e1ae2939a6eb28859bc7edbb8c637b922b2/src/app'] {
+  errno: -2,
+  code: 'ENOENT',
+  syscall: 'scandir',
+  path: '/Users/johncarter/Desktop/magicuidesign-saas-template-fb7c6e1ae2939a6eb28859bc7edbb8c637b922b2/src/app'
+}
+[Error: ENOENT: no such file or directory, scandir '/Users/johncarter/Desktop/magicuidesign-saas-template-fb7c6e1ae2939a6eb28859bc7edbb8c637b922b2/src/app'] {
+  errno: -2,
+  code: 'ENOENT',
+  syscall: 'scandir',
+  path: '/Users/johncarter/Desktop/magicuidesign-saas-template-fb7c6e1ae2939a6eb28859bc7edbb8c637b922b2/src/app'
+}
+[Error: ENOENT: no such file or directory, scandir '/Users/johncarter/Desktop/magicuidesign-saas-template-fb7c6e1ae2939a6eb28859bc7edbb8c637b922b2/src/app'] {
+  errno: -2,
+  code: 'ENOENT',
+  syscall: 'scandir',
+  path: '/Users/johncarter/Desktop/magicuidesign-saas-template-fb7c6e1ae2939a6eb28859bc7edbb8c637b922b2/src/app'
+}
+[Error: ENOENT: no such file or directory, scandir '/Users/johncarter/Desktop/magicuidesign-saas-template-fb7c6e1ae2939a6eb28859bc7edbb8c637b922b2/src/app'] {
+  errno: -2,
+  code: 'ENOENT',
+  syscall: 'scandir',
+  path: '/Users/johncarter/Desktop/magicuidesign-saas-template-fb7c6e1ae2939a6eb28859bc7edbb8c637b922b2/src/app'
+}
